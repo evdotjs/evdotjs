@@ -1,12 +1,13 @@
 ## Hi there 👋
 
+- 🔭 I’m currently working on a [bmi calculator](https://github.com/evdotjs/frontendmentor/tree/gh-pages/bmi-calculator)
+- 🎯 The most recent project I completed is a [blog preview card](https://github.com/evdotjs/frontendmentor/tree/gh-pages/blog-preview-card)
+- 🌱 I’m currently learning [React](https://react.dev/)
+
+  
 <!--
 **evdotjs/evdotjs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
